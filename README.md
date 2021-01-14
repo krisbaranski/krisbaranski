@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kris and i am currently:
+My name is Kris and i'm currently:
 - refreshing my knowledge about HTML and CSS
 - learning basics of JavaScript (Fundamentals)
