@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Kris and i'm currently:
-- refreshing my knowledge about HTML and CSS
-- learning basics of JavaScript (Fundamentals)
+- learning basics of JavaScript (Fundamentals1&2)
+- developers skils, editor setup
