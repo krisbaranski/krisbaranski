@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kris and i'm currently:
-- learning basics of JavaScript (Fundamentals1&2)
+My name is Kris and i'm currently learning:
+- basics of JavaScript (Fundamentals1&2)
 - developers skils, editor setup
+- DOM and Events
