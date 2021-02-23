@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Kris and i'm currently learning:
-- basics of JavaScript (Fundamentals1&2)
-- developers skils, editor setup
-- DOM and Events
+- basics of JavaScript
+- developers skils, editor setup, DOM and Events
