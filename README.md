@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo Friends, welcome to my repository!
 
 <!--
 **krisbaranski/krisbaranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kris and i'm currently learning:
-- basics of JavaScript
-- developers skils, editor setup, DOM and Events
+My name is Kris and i'm currently:
+-  learning JavaScript and React
+- refreshing and updating knowledge about Markup and CSS
+- open for chellanges and new tasks and projects
+
+Feel free to contact me :-)
