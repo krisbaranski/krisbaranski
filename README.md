@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Kris and i'm currently:
--  learning JavaScript and React
+-  learning JavaScript, React, Next.js
 - refreshing and updating knowledge about Markup and CSS
-- open for chellanges and new tasks and projects
+- open for chellanges, new tasks and projects
 
 Feel free to contact me :-)
