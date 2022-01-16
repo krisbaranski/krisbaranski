@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Kris and i'm currently:
--  learning JavaScript, React, Next.js
-- refreshing and updating knowledge about Markup and CSS
+- learning React, Next.js and Gatsby.js
 - open for chellanges, new tasks and projects
 
-Feel free to contact me :-)
+Feel free to look at my repositories, containing learning process and skills that i achieve.
+Contact me if you find my work useful and appliable
