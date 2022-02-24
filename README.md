@@ -1,4 +1,13 @@
-### Hallo Friends, welcome to my repository!
+### Hallo Friends, welcome to my profile!
+
+My name is Kris.
+I'm using HTML, CSS3, JavaScript/Typescript and i'm currently:
+- learning React, Next.js and Gatsby.js
+- open for job offfers, chellanges, new tasks and projects
+
+Feel free to look at my works, containing learning process and skills that i achieve.
+Contact me if you find my work useful and appliable
+
 
 <!--
 **krisbaranski/krisbaranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kris and i'm currently:
-- learning React, Next.js and Gatsby.js
-- open for chellanges, new tasks and projects
-
-Feel free to look at my repositories, containing learning process and skills that i achieve.
-Contact me if you find my work useful and appliable
