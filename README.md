@@ -2,8 +2,8 @@
 
 My name is Kris.
 I'm using JavaScript/Typescript, HTML, CSS3 and i'm currently learning:
-- Node.JS,
-- 
+- React.JS, Node.JS,
+- Algorithms and Data Structures
 - open for job offfers, challenges, new tasks and projects
 
 Feel free to look at my works, containing learning process and skills that i achieve.
