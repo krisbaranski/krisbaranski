@@ -1,8 +1,9 @@
 ### Hallo Friends, welcome to my profile!
 
 My name is Kris.
-I'm using JavaScript/Typescript, HTML, CSS3 and i'm currently:
-- learning React, Next.js and Gatsby.js
+I'm using JavaScript/Typescript, HTML, CSS3 and i'm currently learning:
+- Node.JS,
+- 
 - open for job offfers, challenges, new tasks and projects
 
 Feel free to look at my works, containing learning process and skills that i achieve.
