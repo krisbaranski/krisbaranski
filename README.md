@@ -1,12 +1,13 @@
-### Hallo Friends, welcome to my profile!
+### Hallo and welcome to my profile!
 
 My name is Kris.
 I'm using JavaScript/Typescript, HTML, CSS3 and i'm currently learning:
-- React.JS, Node.JS,
-- Algorithms and Data Structures
-- open for job offfers, challenges, new tasks and projects
+- ReactJS, NextJS, NodeJS,
+- Algorithms and Data Structures.
 
-Feel free to look at my works, containing learning process and skills that i achieve.
+I'm open for job offfers, challenges, new tasks and projects
+
+I hope, you enjoy my works, containing learning process and skills that i achieve.
 Contact me if you find my work useful and appliable
 
 
