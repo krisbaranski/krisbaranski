@@ -2,4 +2,4 @@
 
 - I'm currently learning ReactJS, NextJS, NodeJS
 - I'm open for job offers, challenges, new tasks and projects
-- How to reach me: mail@kristofbaranski.com
+- How to reach me: mailto:mail@kristofbaranski.com
