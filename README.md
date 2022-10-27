@@ -1,4 +1,4 @@
-### Frontend Software Developer with background in fine arts and handcrafts
+### Frontend Web Developer with background in fine arts and handcrafts
 
 - I'm currently learning ReactJS, NextJS, NodeJS
 - I'm open for job offers, challenges, new tasks and projects
