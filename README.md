@@ -2,7 +2,7 @@
 
 - I'm currently building projects with Next JS 13, Tailwind CSS, MUI
 - I'm open for job offers, challenges, new tasks and projects
-
 - Check out my [portfolio](https://krisbaranski.com)
-- How to reach me: [kris.baranski@web.de](mailto:kris.baranski@web.de)
 - My [LinkedIn profile](https://www.linkedin.com/in/krisbaranski)
+- You can reach me: [kris.baranski@web.de](mailto:kris.baranski@web.de)
+
