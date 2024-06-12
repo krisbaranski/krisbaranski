@@ -7,10 +7,10 @@
 
 <p align="left">
 <a href="https://krisbaranski.com">
-  <img src="https://github.com/krisbaranski/krisbaranski/portfolio.svg" />
+  Portfolio
 </a>
 <a mailto:"mail@krisbaranski.com">
-  <img src="https://github.com/krisbaranski/krisbaranski/mail.svg" />
+  Mail
 </a>
 </p>
 
