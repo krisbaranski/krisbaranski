@@ -6,8 +6,8 @@
 <br/>
 
 <p align="left">
-[ Portfolio ](href="https://krisbaranski.com")
-[ Mail ](mailto:"mail@krisbaranski.com")
+[ Portfolio ](https://krisbaranski.com)
+[ Mail ](mailto:mail@krisbaranski.com)
 </p>
 
 <br/>
