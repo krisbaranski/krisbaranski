@@ -17,6 +17,7 @@
 <br/>
 
 <p align="left">
+  <img src="[https://skillicons.dev/icons?i=js](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg)" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=python" />
