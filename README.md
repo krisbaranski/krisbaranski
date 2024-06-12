@@ -1,7 +1,7 @@
 ### Frontend Web Developer with background in fine arts and design
 
-- currently studiyng CS50x on Harvard College
-- i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
+# currently studiyng CS50x on Harvard College
+# i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=react" />
@@ -31,7 +31,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisbaranski&layout=compact&theme=nord)](https://github.com/krisbaranski/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisbaranski&theme=nord&layout=compact&hide=stars,issues&show_icons=true&rank_icon=percentile)
