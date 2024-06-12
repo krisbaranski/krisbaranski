@@ -5,7 +5,7 @@
 
 <br/>
 
-<div align="left" color="white" padding="20px">
+<div style="align:left; color:white; padding:'20px'">
   
 [**Portfolio**](https://krisbaranski.com)
 [**Mail**](mail@krisbaranski.com)
