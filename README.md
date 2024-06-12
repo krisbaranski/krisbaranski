@@ -1,7 +1,7 @@
-### Frontend Web Developer with background in fine arts and design
+# Frontend Web Developer with background in fine arts and design
 
-# currently studiyng CS50x on Harvard College
-# i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
+### currently studiyng CS50x on Harvard College
+### i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
 
 <br/>
 
