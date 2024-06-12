@@ -2,16 +2,11 @@
 
 - currently studiyng CS50x on Harvard College
 - i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
+- [**Portfolio**](https://krisbaranski.com)
+- [**Mail**](mail@krisbaranski.com)
+
 
 <br/>
-
-<span style="align:left; color:white; padding:'50px'">
-  
-[**Portfolio**](https://krisbaranski.com)
-[**Mail**](mail@krisbaranski.com)
-
-</span>
-
 <br/>
   
 <p align="left">
