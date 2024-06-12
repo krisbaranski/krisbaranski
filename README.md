@@ -20,4 +20,4 @@
 
 ![Kris Baranski GitHub stats](https://github-readme-stats.vercel.app/api?username=krisbaranski&theme=nord&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisbaranski)](https://github.com/krisbaranski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisbaranski&layout=donut&theme=nord)](https://github.com/krisbaranski/github-readme-stats)
