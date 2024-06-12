@@ -5,12 +5,12 @@
 
 <br/>
 
-<div >
+<span style="align:left; color:white; padding:'20px'">
   
-[**Portfolio**](https://krisbaranski.com){: style="align:left; color:white; padding:20px" }
-[$${\color{white}**Mail**}$$](mail@krisbaranski.com)
+[**Portfolio**](https://krisbaranski.com)
+[**Mail**](mail@krisbaranski.com)
 
-</div>
+</span>
 
 <br/>
   
