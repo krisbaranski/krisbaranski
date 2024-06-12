@@ -5,10 +5,10 @@
 
 <br/>
 
-<span style="align:left; color:white">
+<span style="align:left; color:white; padding:'50px'">
   
-[ **Portfolio** ](https://krisbaranski.com)
-[ **Mail** ](mail@krisbaranski.com)
+[** Portfolio **](https://krisbaranski.com)
+[** Mail **](mail@krisbaranski.com)
 
 </span>
 
