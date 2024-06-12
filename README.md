@@ -7,8 +7,8 @@
 
 <div style="align:left; color:white; padding:'20px'">
   
-[**Portfolio**](https://krisbaranski.com)
-[**Mail**](mail@krisbaranski.com)
+[$${\color{white}**Portfolio**}$$](https://krisbaranski.com)
+[$${\color{white}**Mail**}$$](mail@krisbaranski.com)
 
 </div>
 
