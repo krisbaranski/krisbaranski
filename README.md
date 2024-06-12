@@ -35,5 +35,5 @@ These are skills that I'm proficient at or currently learning--you can check out
 <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" width="45px">
  </p>
-
+[![ tH stats](https://github-readme-stats.vercel.app/api?username=krisbaranski)](https://github.com/krisbaranski/github-readme-stats)
 [![Top Langs](https://github-readme-stats-krisbaranski.vercel.app/api/top-langs/?username=krisbaranski&layout=compact&langs_count=6&bg_color=00000000)](https://github.com/krisbaranski/github-readme-stats)
