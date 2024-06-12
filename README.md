@@ -5,9 +5,9 @@
 
 <br/>
 
-<div style="align:left; color:white; padding:'20px'">
+<div >
   
-[$${\color{white}**Portfolio**}$$](https://krisbaranski.com)
+[**Portfolio**](https://krisbaranski.com){: style="align:left; color:white; padding:20px" }
 [$${\color{white}**Mail**}$$](mail@krisbaranski.com)
 
 </div>
