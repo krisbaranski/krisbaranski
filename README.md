@@ -18,6 +18,6 @@
 
 </p>
 
-![Kris Baranski GitHub stats](https://github-readme-stats.vercel.app/api?username=krisbaranski&theme=nord&hide=issues&show_icons=true&rank_icon=percentile)
+![Kris Baranski GitHub stats](https://github-readme-stats.vercel.app/api?username=krisbaranski&theme=nord&layout=compact&hide=issues&show_icons=true&rank_icon=percentile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisbaranski&layout=compact&theme=nord)](https://github.com/krisbaranski/github-readme-stats)
