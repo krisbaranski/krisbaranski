@@ -5,9 +5,9 @@
 
 <br/>
 
-<p align="left" padding="20px">
 [**Portfolio**](https://krisbaranski.com)
 [**Mail**](mail@krisbaranski.com)
+<p align="left" padding="20px">
 </p>
 
 <br/>
