@@ -1,4 +1,4 @@
-# Frontend Web Developer with background in fine arts and design
+![user-solid](https://github.com/krisbaranski/krisbaranski/assets/75210163/5ddca192-83bd-49c8-9f27-bd416938e3e5)# Frontend Web Developer with background in fine arts and design
 
 - currently studiyng CS50x on Harvard College
 - i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
@@ -15,6 +15,7 @@
 </p>
 
 <br/>
+![Uploading user-solid.svg…](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg>)
 
   <img src="[https://skillicons.dev/icons?i=js](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg)" />
   
@@ -39,6 +40,5 @@
 <p align="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisbaranski&layout=compact&theme=nord)](https://github.com/krisbaranski/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisbaranski&theme=nord&layout=compact&hide=stars,issues&show_icons=true&rank_icon=percentile)
 
 </p>
