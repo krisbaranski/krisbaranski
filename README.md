@@ -1,22 +1,33 @@
 ### Frontend Web Developer with background in fine arts and design
 
-- I'm currently studiyng CS50x on Harvard College
-- also i'm contributing on side projects with: Next JS 13, Tailwind CSS, MUI, Angular
+- currently studiyng CS50x on Harvard College
+- i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
 
-- Check out my [Portfolio](https://krisbaranski.com)
-- You can reach me through [mail@krisbaranski.com](mailto:mail@krisbaranski.com)
+My Portfolio [Portfolio](https://krisbaranski.com)
+My Email [mail@krisbaranski.com](mailto:mail@krisbaranski.com)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=python" />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<a href="https://krisbaranski.com">
+   <i class="fa-solid fa-user"></i>
 </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 <p align="center">
