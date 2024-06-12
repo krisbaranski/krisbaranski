@@ -5,11 +5,12 @@
 
 <br/>
 
+<div align="left" color="white" padding="20px">
+  
 [**Portfolio**](https://krisbaranski.com)
 [**Mail**](mail@krisbaranski.com)
-<p align="left" color="white" padding="20px">
-portfolio mail
-</p>
+
+</div>
 
 <br/>
   
