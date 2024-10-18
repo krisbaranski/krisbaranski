@@ -1,7 +1,7 @@
 # Frontend Web Developer with background in fine arts and design
 
-- currently studiyng CS50x on Harvard College
-- i'm contributing onsite projects with: NextJS, Tailwind, MUI, Angular
+- finished CS50x on Harvard College
+- i'm contributing on projects with: Angukar,Tailwind, MUI
 - [**Portfolio**](https://krisbaranski.com)
 - [**Mail**](mail@krisbaranski.com)
 
